@@ -1,6 +1,6 @@
 '''This is inference code for mnist dataset '''
 
-from __future__ import print_function
+from __future__ import print_function # 테스트
 import tensorflow.keras
 from tensorflow.keras.datasets import mnist
 from tensorflow.keras.models import Sequential
